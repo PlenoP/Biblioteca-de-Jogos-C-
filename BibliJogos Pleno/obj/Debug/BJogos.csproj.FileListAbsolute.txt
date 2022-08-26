@@ -1,0 +1,16 @@
+c:\Downloads OperaGx\BibliJogos Pleno\obj\Debug\BJogos.exe
+c:\Downloads OperaGx\BibliJogos Pleno\obj\Debug\BJogos.pdb
+C:\Downloads OperaGx\BibliJogos Pleno\bin\Debug\BJogos.exe.config
+C:\Downloads OperaGx\BibliJogos Pleno\bin\Debug\BJogos.exe
+C:\Downloads OperaGx\BibliJogos Pleno\bin\Debug\BJogos.pdb
+C:\Downloads OperaGx\BibliJogos Pleno\obj\Debug\BJogos.csproj.AssemblyReference.cache
+C:\Downloads OperaGx\BibliJogos Pleno\obj\Debug\BJogos.csproj.SuggestedBindingRedirects.cache
+C:\Downloads OperaGx\BibliJogos Pleno\obj\Debug\BJogos.csproj.CoreCompileInputs.cache
+E:\BibliJogos Pleno\obj\Debug\BJogos.exe
+E:\BibliJogos Pleno\obj\Debug\BJogos.pdb
+E:\BibliJogos Pleno\bin\Debug\BJogos.exe.config
+E:\BibliJogos Pleno\bin\Debug\BJogos.exe
+E:\BibliJogos Pleno\bin\Debug\BJogos.pdb
+E:\BibliJogos Pleno\obj\Debug\BJogos.csproj.AssemblyReference.cache
+E:\BibliJogos Pleno\obj\Debug\BJogos.csproj.SuggestedBindingRedirects.cache
+E:\BibliJogos Pleno\obj\Debug\BJogos.csproj.CoreCompileInputs.cache
